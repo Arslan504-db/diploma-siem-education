@@ -37,12 +37,20 @@ Docker       |  Telegram Bot API    |  PowerShell (имитация атаки)
 4. Алерт уходит в **Telegram** и сохраняется в **SQLite**
 5. **Kibana** строит графики по инцидентам в реальном времени
 
+
 ## 📸 Доказательства
 
-- [Скриншот консоли анализатора]([ссылка](https://raw.githubusercontent.com/Arslan504-db/diploma-siem-education/main/screenshot_analyzer.png))
-- [Скриншот алерта в Telegram]([ссылка](https://raw.githubusercontent.com/Arslan504-db/diploma-siem-education/main/screenshot_kibana.png))
-- [Скриншот дашборда Kibana]([ссылка](https://raw.githubusercontent.com/Arslan504-db/diploma-siem-education/main/screenshot_telegram.png))
-- [Код анализатора](analyzer.py)
+### Вывод анализатора в консоли
+![Анализатор](https://raw.githubusercontent.com/Arslan504-db/diploma-siem-education/main/screenshot_analyzer.png)
+
+### Уведомление в Telegram
+![Telegram](https://raw.githubusercontent.com/Arslan504-db/diploma-siem-education/main/screenshot_telegram.png)
+
+### Логи в Kibana
+![Kibana](https://raw.githubusercontent.com/Arslan504-db/diploma-siem-education/main/screenshot_kibana.png)
+
+### Код
+- [analyzer.py](analyzer.py)
 
 ## 📚 Что я узнал
 
