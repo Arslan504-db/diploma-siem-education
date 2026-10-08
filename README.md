@@ -39,7 +39,7 @@ Docker       |  Telegram Bot API    |  PowerShell (имитация атаки)
 
 ## 📸 Доказательства
 
-- [Скриншот консоли анализатора]((https://raw.githubusercontent.com/Arslan504-db/diploma-siem-education/main/screenshot_analyzer.png))
+- [Скриншот консоли анализатора](ссылка)
 - [Скриншот алерта в Telegram](ссылка)
 - [Скриншот дашборда Kibana](ссылка)
 - [Код анализатора](analyzer.py)
