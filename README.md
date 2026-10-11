@@ -62,8 +62,7 @@ Docker       |  Telegram Bot API    |  PowerShell (имитация атаки)
 
 ## 🔗 Связанные проекты
 
-## 🔗 Связанные проекты
-
 - [Мониторинг сетевого трафика](https://github.com/Arslan504-db/network-traffic-monitoring)
 - [PKI на OpenSSL](https://github.com/Arslan504-db/pki-openssl-lab)
 - [Пентест-лаборатория](https://github.com/Arslan504-db/pentest-lab-report)
+- [Сети на Cisco](https://github.com/Arslan504-db/cisco-networking-labs)
